@@ -1,0 +1,68 @@
+{
+    "emp_details": [
+        {
+            "name" : "smith" ,
+            "date of birth" : "12-1-1998" ,
+            "height" : "165 cm" ,
+            "city" : "chicago" ,
+            "state" : "illinois"
+            
+        },
+        {
+           "name" : "Mahesh" ,
+            "date of birth" : "22-11-1999" ,
+            "height" : "170 cm" ,
+            "city" : "Hyderabad" ,
+            "state" : "Telangana"
+        },
+        {
+            "name" : "Vijay" ,
+            "date of birth" : "20-11-1988" ,
+            "height" : "166 cm" ,
+            "city" : "Mumbai" ,
+            "state" : "Maharashtra"
+        },
+        {
+            "name" : "Shankar" ,
+            "date of birth" : "21-2-1992" ,
+            "height" : "170 cm" ,
+            "city" : "Patna" ,
+            "state" : "Bihar" 
+        },
+        {
+             "name" : "Ramoji" ,
+            "date of birth" : "11-12-1979" ,
+            "height" : "168 cm" ,
+            "city" : "Bangalore" ,
+            "state" : "Karnataka"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
